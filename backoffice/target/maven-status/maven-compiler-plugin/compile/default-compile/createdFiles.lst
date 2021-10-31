@@ -1,0 +1,8 @@
+hw\aef\backoffice\resources\CatalogueResource.class
+hw\aef\backoffice\controller\WorkAddedSuccessServlet.class
+hw\aef\backoffice\controller\HomeServlet.class
+hw\aef\backoffice\controller\AddWorkServlet.class
+hw\aef\backoffice\controller\AuthenticationServlet.class
+hw\aef\backoffice\resources\WorkResource.class
+hw\aef\backoffice\controller\LogoutServlet.class
+hw\aef\backoffice\controller\WorkAddedFailureServlet.class

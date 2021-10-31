@@ -1,0 +1,10 @@
+hw\aef\firstapp\controller\SommeServlet.class
+hw\aef\firstapp\controller\PayerLivreServlet.class
+hw\aef\firstapp\controller\LoginServlet.class
+hw\aef\firstapp\controller\UnexpectedErrorServlet.class
+hw\aef\firstapp\controller\TestThreadSafeServlet.class
+hw\aef\firstapp\resources\LivreResource.class
+hw\aef\firstapp\controller\SelectionLivreServlet.class
+hw\aef\firstapp\resources\CalculationResource.class
+hw\aef\firstapp\controller\PdfServlet.class
+hw\aef\firstapp\controller\HelloServlet.class
